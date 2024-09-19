@@ -4,4 +4,8 @@ Cibersegurança
  
 1707372
 
-João Gaspar 
+João Gaspar
+
+Coca-Cola
+
+SLB Benfica
