@@ -10,7 +10,7 @@ Coca-Cola
 
 SLB Benfica
 
-# Trabalho  (H1)
+# Trabalho
 
 1. Descrição do Trabalho
 
