@@ -24,7 +24,7 @@ Implementar uma função chamada tabuada(x) que foi utilizada para calcular a ta
 
 ![Fotografia do Código do Trabalho](/Trabalho/Trabalho_Codigo.png)
 
-O trabalho resume-se a desenvolver um sistema cliente-servidor na linguagem Python para calcular a tabuada de um número fornecido pelo utilizador. No código do servidor, existe uma função chamada “tabuada” onde esta função vai fazer a tabuada completa de um número recebido pelo utilizador, mostrando-a em linhas separadas para cada multiplicação. No lado do cliente, o sistema solicita ao utilizador que coloque um número inteiro, onde existe uma função onde esta irá validar se o número inserido é válido. Após enviar o número ao servidor, o cliente recebe a tabuada do número pedido. 
+O trabalho resume-se a desenvolver um sistema cliente-servidor na linguagem Python para calcular a tabuada de um número fornecido pelo utilizador. No código do servidor, existe uma função chamada “tabuada” onde esta função vai fazer a tabuada completa de um número recebido pelo utilizador, mostrando-a em linhas separadas para cada multiplicação. No lado do cliente, o sistema solicita ao utilizador que coloque um número inteiro, após enviar o número ao servidor, o cliente recebe a tabuada do número pedido. 
 
 4. Funcionamento do trabalho
 
