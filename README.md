@@ -20,6 +20,8 @@ Implementar uma função chamada tabuada(x) que foi utilizada para calcular a ta
 
 ![Fotografia da Arquitetura do Trabalho](/Trabalho/img/Arquitetura_Trabalho.png)
 
+Como pode ser visualizado na imagem a cima , o clinete irá enviar um número interiro "x" para o servidor ,o nde no servidor existe uma função chamada tabuada(x) que irá efectuar a tabuada do número enviado pelo utilizador e enviar a respetiva tabuada para o utilizador.
+
 3. Descrição da implementação
 
 ![Fotografia do Código do Trabalho](/Trabalho/img/Trabalho_Codigo.png)
@@ -37,3 +39,7 @@ Na fotografia a cima  pode ser visualizada duas janelas, onde a janela da esquer
 O trabalho desenvolvido em python demonstra a criação de uma função onde o utilizador introduz um número inteiro e o programa devolve a tabuada desse número com o modelo de comunicação RPC.
  
 8. Bibliografia
+
+- Códigos fornecidos pelo Professor
+- Apresentações no moodle fornecidos pelo Professor
+
