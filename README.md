@@ -14,7 +14,7 @@ SLB Benfica
 
 1. Descrição do Trabalho
 
-Implementar uma função chamada tabuada(x) que foi utilizada para calcular a tabuada do número inteiro fornecido pelo utilizado, onde este, ao enviar um valor inteiro, irá receber pelo servidor a tabuada correspondente a esse valor, sendo esta função utilizada para gerar os resultados da multiplicação pelo número inserido pelo utilizador pelos números de 1 a 10 e apresentar essa informação de forma clara e organizada.	
+Implementar uma função chamada tabuada(x) que foi utilizada para calcular a tabuada do número inteiro fornecido pelo utilizador, onde este, ao enviar um valor inteiro, irá receber pelo servidor a tabuada correspondente a esse valor, sendo esta função utilizada para gerar os resultados da multiplicação pelo número inserido pelo utilizador pelos números de 1 a 10 e apresentar essa informação de forma clara e organizada.	
 
 2. Arquitectura do trabalho
 
