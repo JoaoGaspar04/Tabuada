@@ -20,19 +20,20 @@ Implementar uma função chamada tabuada(x) que foi utilizada para calcular a ta
 
 ![Fotografia da Arquitetura do Trabalho](/Trabalho/img/Arquitetura_Trabalho.png)
 
-Como pode ser visualizado na imagem a cima , o clinete irá enviar um número interiro "x" para o servidor ,o nde no servidor existe uma função chamada tabuada(x) que irá efectuar a tabuada do número enviado pelo utilizador e enviar a respetiva tabuada para o utilizador.
+Como pode ser visualizado na imagem acima , o cliente irá enviar um número inteiro "x" para o servidor ,onde no servidor existe uma função chamada tabuada(x) que irá efetuar a tabuada do número enviado pelo utilizador e enviar a respetiva tabuada para o utilizador.
 
 3. Descrição da implementação
 
+O trabalho resume-se a desenvolver um sistema cliente-servidor na linguagem Python para calcular a tabuada de um número fornecido pelo utilizador. No código do servidor, existe uma função chamada “tabuada” onde esta função vai fazer a tabuada completa de um número recebido pelo utilizador, mostrando-a em linhas separadas para cada multiplicação. No lado do cliente, o sistema solicita ao utilizador que coloque um número inteiro, após enviar o número ao servidor, o cliente recebe a tabuada do número pedido. 
+
 ![Fotografia do Código do Trabalho](/Trabalho/img/Trabalho_Codigo.png)
 
-O trabalho resume-se a desenvolver um sistema cliente-servidor na linguagem Python para calcular a tabuada de um número fornecido pelo utilizador. No código do servidor, existe uma função chamada “tabuada” onde esta função vai fazer a tabuada completa de um número recebido pelo utilizador, mostrando-a em linhas separadas para cada multiplicação. No lado do cliente, o sistema solicita ao utilizador que coloque um número inteiro, após enviar o número ao servidor, o cliente recebe a tabuada do número pedido. 
 
 4. Funcionamento do trabalho
 
 ![Fotografia do Trabalho a Funcionar](/Trabalho/img/Trabalho_Funcao.png)
 
-Na fotografia a cima  pode ser visualizada duas janelas, onde a janela da esquerda pertence á do servidor e a janela da direita pertence ao cliente. Na janela do Servidor pode ser observado o diretório que está a ser executado “SimpleXMLRPCServer.py” mostrando qual o endereço e qual a porta que está a ser utilizada. Na janela do Cliente pode ser observado o diretório que está a ser executado “cliente.py”, onde é pedido ao utilizador que “Insira um número inteiro:”, para finalizar o programa, o utilizador insere o número 5 e depois é mostrado a tabuada do número, está feita de 0 a 10.
+Na fotografia acima  pode ser visualizada duas janelas, onde a janela da esquerda pertence à do servidor e a janela da direita pertence ao cliente. Na janela do Servidor pode ser observado o diretório que está a ser executado “SimpleXMLRPCServer.py” mostrando qual o endereço e qual a porta que está a ser utilizada. Na janela do Cliente pode ser observado o diretório que está a ser executado “cliente.py”, onde é pedido ao utilizador que “Insira um número inteiro:”, para finalizar o programa, o utilizador insere o número 5 e depois é mostrado a tabuada do número, está feita de 0 a 10.
 
 7. Conclusão
 
