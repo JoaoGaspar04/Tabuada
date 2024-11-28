@@ -1,7 +1,3 @@
-# sd_1707372_2024-25
-
-
-
 # Trabalho
 
 ## 1. Descrição do Trabalho
